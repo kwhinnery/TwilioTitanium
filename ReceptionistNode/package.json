@@ -1,0 +1,16 @@
+{
+  "name": "ReceptionistServer",
+  "version": "0.0.1",
+  "description": "server back end for the virtual receptionist",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "twilio":"*",
+    "express":"3.x"
+  },
+  "repository": "",
+  "author": "Kevin Whinnery",
+  "license": "MIT"
+}
