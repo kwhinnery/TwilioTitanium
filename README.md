@@ -44,7 +44,7 @@ Whereever you deploy this application, change the URL in your Titanium code
 in `../ReceptionistApp/Resources/services/TwilioService.js` to match.
 
 # Demo Video
-Coming soon.
+http://www.youtube.com/watch?v=fikKedhN4HM
 
 # Module Support
 At this point, this is not an official Twilio-sancitoned library - it's a hack
