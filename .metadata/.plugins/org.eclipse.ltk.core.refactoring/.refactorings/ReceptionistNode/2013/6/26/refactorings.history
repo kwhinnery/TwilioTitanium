@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;ReceptionistNode/config.json&apos; to &apos;config.js&apos;" description="Rename resource &apos;config.json&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="config.json" name="config.js" stamp="1372188174562" updateReferences="true"/>
+</session>

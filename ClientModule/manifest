@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.0.1
+apiversion: 2
+description: This (unofficial, unsupported) module exposes basic functionality of the Twilio Client SDK.
+author: Kevin Whinnery
+license: MIT
+copyright: 2013 Twilio Inc.
+
+
+# these should not be edited
+name: ClientModule
+moduleid: com.twilio.client
+guid: 7fce7d17-c435-4b1c-830f-7555f22e21a6
+platform: iphone
+minsdk: 3.1.1.GA

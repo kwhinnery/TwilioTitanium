@@ -1,0 +1,24 @@
+{
+  "name": "ReceptionistNode",
+  "version": "0.0.1",
+  "description": "node server for a Twilio-powered virtual receptionist",
+  "framework": "none",
+  "main": "app.js",
+  "logfile" : "ReceptionistNode.log",
+  "author": "Kevin Whinnery",
+  "maintainers": [
+  ],
+  "contributors": [
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "preferGlobal": false,
+  "dependencies": {
+  	"twilio":"*",
+  	"express":"3.x"
+  },
+  "license":"",
+  "private": true
+}

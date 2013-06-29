@@ -1,0 +1,14 @@
+{
+  "routes":
+  [
+    { "path": "/", "callback": "application#index" }
+  ],
+  "filters":
+  [
+  	 { "path": "/", "callback": "" }
+  ],
+  "websockets":
+  [
+  	{ "event": "", "callback": ""}
+  ]
+}

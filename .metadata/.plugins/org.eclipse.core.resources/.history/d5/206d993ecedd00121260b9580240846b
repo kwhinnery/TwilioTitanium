@@ -1,0 +1,10 @@
+module.exports = {
+	twilio: {
+		accountSid:'',
+		authToken:'s'
+	},
+	acs: {
+		key:'2QhHigslfWd0b1PDvgmohq6Z9KUxGrnX',
+		secret:'X6DbmapqFCf78PsdTr2YnFp1oJ1LqleQ'
+	}
+};
