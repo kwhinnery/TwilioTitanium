@@ -27,7 +27,7 @@ To run this app from the terminal, navigate to this directory and run:
 
         titanium build -p ios -F ipad -I 6.1
 
-### ReceptionistServer
+### ReceptionistNode
 This is a node.js application which is responsible for generating our app's
 [TwiML](http://www.twilio.com/docs/api/twiml) and 
 [capability tokens](http://www.twilio.com/docs/client/capability-tokens). This
